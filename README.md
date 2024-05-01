@@ -11,4 +11,6 @@
 </div>
   
 # C++
-My currently newest game in C++ is TSG (Terminal Snake Game). You can play it <a href="https://github.com/Nixhekoo/TerminalSnakeGameCPP">here</a>.
+My Best Games:
+[1] NTR (Nixhekoo's Terminal Raycaster) <a href="https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP">PLAY</a>.
+[2] TSG (Terminal Snake Game) <a href="https://github.com/Nixhekoo/TSG-TerminalSnakeGame_CPP">PLAY</a>.
