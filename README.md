@@ -12,5 +12,5 @@
   
 # C++
 My Best Games:
-[1] NTR (Nixhekoo's Terminal Raycaster) <a href="https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP">PLAY</a>.
-[2] TSG (Terminal Snake Game) <a href="https://github.com/Nixhekoo/TSG-TerminalSnakeGame_CPP">PLAY</a>.
+[1] NTR (Nixhekoo's Terminal Raycaster) <a href="https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP">PLAY</a>. <br>
+[2] TSG (Terminal Snake Game) <a href="https://github.com/Nixhekoo/TSG-TerminalSnakeGame_CPP">PLAY</a>. <br>
