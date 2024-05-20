@@ -17,5 +17,5 @@
 [3] TSG (Terminal Snake Game) <a href="https://github.com/Nixhekoo/TSG-TerminalSnakeGame_CPP">PLAY</a>. <br>
 
 ### My Best Systems:
-[1] NXHK SYSTEM (Nixhekoo's System) <a href="https://github.com/Nixhekoo/NXHKSYSTEM">PLAY</a>. <br>
-[2] NXHK Preview Mode (Nixhekoo's Preview Mode) <a href="https://github.com/Nixhekoo/NXHK-Preview_Mode">PLAY</a>. <br>
+[1] NXHK SYSTEM (Nixhekoo's System) <a href="https://github.com/Nixhekoo/NXHKSYSTEM">CHECK OUT</a>. <br>
+[2] NXHK Preview Mode (Nixhekoo's Preview Mode) <a href="https://github.com/Nixhekoo/NXHK-Preview_Mode">CHECK OUT</a>. <br>
