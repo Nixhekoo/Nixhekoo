@@ -18,4 +18,4 @@
 
 ### My Best Systems:
 [1] NXHK SYSTEM (Nixhekoo's System) <a href="https://github.com/Nixhekoo/NXHKSYSTEM">CHECK OUT</a>. <br>
-[2] NXHK Preview Mode (Nixhekoo's Preview Mode) <a href="https://github.com/Nixhekoo/NXHK-Preview_Mode">CHECK OUT</a>. <br>
+[2] NXHKCMD (Nixhekoo's Commands) <a href="https://github.com/Nixhekoo/NXHK-Preview_Mode">CHECK OUT</a>. <br>
