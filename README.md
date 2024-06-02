@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/Nixhekoo/Nixhekoo/main/Banner%201.png)
+![Image](https://raw.githubusercontent.com/Nixhekoo/Nixhekoo/main/Banner/Banner%202.png)
 <h1 align=center> Nixhekoo Games </h1>
 <p>Hey, My name is Nixhekoo and i am a 18 Year Old Developer from Slovakia. I love making Systems and Games. I've just started learning C++ recently, and made game TSG (Terminal Snake Game). My first ever Successfull Snake Game. I have Year of experience in Batch but i've mostly been developing text game called "Gem Miner". If you are interested, you can download them here:</p>
 <div align=center>
