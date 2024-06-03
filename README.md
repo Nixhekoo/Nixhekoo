@@ -12,10 +12,13 @@
   
 # C++
 ### My Best Games:
-[1] NTR (Nixhekoo's Terminal Raycaster) <a href="https://github.com/Nixhekoo/NTR-NixhekoosTerminalRaycaster_CPP">PLAY</a>. <br>
-[2] NXHK TM (Nixhekoo's Terminal Minesweeper) <a href="https://github.com/Nixhekoo/NXHK-TerminalMinesweeper_CPP">PLAY</a>. <br>
-[3] TSG (Terminal Snake Game) <a href="https://github.com/Nixhekoo/TSG-TerminalSnakeGame_CPP">PLAY</a>. <br>
+[1] NXHKTerminalRaycaster <a href="https://github.com/Nixhekoo/NXHKTerminalRaycaster_V1_CPP">PLAY</a>. <br>
+> NTR is a ASCII Raycaster i've made. It's my Very First. Hope you like it :)
+[2] NXHKTerminalMinesweeper <a href="https://github.com/Nixhekoo/NXHKTerminalMinesweeper_V1_CPP">PLAY</a>. <br>
+> NXHK TM is my Very First Minesweeper that uses mouse cursor and colors!
+[3] NXHKTerminalSnakeGame <a href="https://github.com/Nixhekoo/NXHKTerminalSnakeGame_V1_CPP">PLAY</a>. <br>
+> TSG 
 
 ### My Best Systems:
-[1] NXHK SYSTEM (Nixhekoo's System) <a href="https://github.com/Nixhekoo/NXHKSYSTEM">CHECK OUT</a>. <br>
-[2] NXHKTP (Nixhekoo's Terminal Plugin) <a href="https://github.com/Nixhekoo/NXHKTerminalPlugin">CHECK OUT</a>. <br>
+[1] NXHKSystem <a href="https://github.com/Nixhekoo/NXHKSystem">CHECK OUT</a>. <br>
+[2] NXHKTerminalPlugin <a href="https://github.com/Nixhekoo/NXHKTerminalPlugin">CHECK OUT</a>. <br>
