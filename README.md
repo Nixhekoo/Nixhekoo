@@ -4,15 +4,16 @@
 # Scratch
 - I also love making Scratch Games which may sound silly, but i really enjoy it. My newest Scratch Game im currently working on is Minimalistic Tower Defense. You can play it here: [Minimalistic Tower Defense](https://scratch.mit.edu/projects/992952148/)
   
-# C++
-### My Best Games:
-[1] [NXHKTerminalRaycaster](https://github.com/Nixhekoo/NXHKTerminalRaycaster_V1_CPP)
-> NTR is a ASCII Raycaster i've made. It's my Very First. Hope you like it
-[2] [NXHKTerminalMinesweeper](https://github.com/Nixhekoo/NXHKTerminalMinesweeper_V1_CPP)
-> NXHK TM is my Very First Minesweeper that uses mouse cursor and colors!
-[3] [NXHKTerminalSnakeGame](https://github.com/Nixhekoo/NXHKTerminalSnakeGame_V1_CPP)
-> TSG 
+## My C++ Games
+### 1. [NXHKTerminalRaycaster](https://github.com/Nixhekoo/NXHKTerminalRaycaster_V1_CPP)
+> NXHKTerminalRaycaster is a ASCII Raycaster i've made. It's my Very First. Hope you like it
+### 2. [NXHKTerminalMinesweeper](https://github.com/Nixhekoo/NXHKTerminalMinesweeper_V1_CPP)
+> NXHKTerminalMinesweeper is my Very First Minesweeper that uses mouse cursor and colors!
+### 3. [NXHKTerminalSnakeGame](https://github.com/Nixhekoo/NXHKTerminalSnakeGame_V1_CPP)
+> NXHKTerminalSnakeGame is my Very First Game Ever made using C++. I am very proud of it!
 
-### My Best Systems:
-[1] NXHKSystem <a href="https://github.com/Nixhekoo/NXHKSystem">CHECK OUT</a>. <br>
-[2] NXHKTerminalPlugin <a href="https://github.com/Nixhekoo/NXHKTerminalPlugin">CHECK OUT</a>. <br>
+## My C++ Systems
+### 1. [NXHKSystem](https://github.com/Nixhekoo/NXHKSystem)
+> NXHKSystem is a Header for C++, that will help you with your C++ project whether its with Basic Encryption and Decryption, converting from String to any Data Type or any Data Type to String, or just Saving your project!
+### 2. [NXHKTerminalPlugin](https://github.com/Nixhekoo/NXHKTerminalPlugin)
+> NXHKTerminalPlugin is a Plugin for Windows Terminal! This project allows you to hide Taskbar and Desktop Icons with just one Command! You can also use this to download videos from internet and even convert them to audio!
