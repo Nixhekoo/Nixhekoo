@@ -5,7 +5,7 @@
 - I also love making Scratch Games which may sound silly, but i really enjoy it. My newest Scratch Game im currently working on is Minimalistic Tower Defense. You can play it here: [Minimalistic Tower Defense](https://scratch.mit.edu/projects/992952148/)
   
 ## My C++ Games
-### 1. [NXHKTerminalRaycaster](https://github.com/Nixhekoo/NXHKTerminalRaycaster_V1_CPP)
+### 1. [NXHKTerminalRaycaster](https://github.com/Nixhekoo/NXHKTerminalRaycaster_V1_CPP) 
 > NXHKTerminalRaycaster is a ASCII Raycaster i've made. It's my Very First. Hope you like it
 ### 2. [NXHKTerminalMinesweeper](https://github.com/Nixhekoo/NXHKTerminalMinesweeper_V1_CPP)
 > NXHKTerminalMinesweeper is my Very First Minesweeper that uses mouse cursor and colors!
