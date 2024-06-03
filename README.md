@@ -7,7 +7,7 @@
 ## My C++ Games
 ### 1. [NXHKTerminalRaycaster](https://github.com/Nixhekoo/NXHKTerminalRaycaster_V1_CPP) 
 > NXHKTerminalRaycaster is a ASCII Raycaster i've made. It's my Very First. Hope you like it
-### 2. [NOT FINISHED!] [NXHKTerminalMinesweeper](https://github.com/Nixhekoo/NXHKTerminalMinesweeper_V1_CPP)
+### 2. [NXHKTerminalMinesweeper](https://github.com/Nixhekoo/NXHKTerminalMinesweeper_V1_CPP) [NOT FINISHED!]
 > NXHKTerminalMinesweeper is my Very First Minesweeper that uses mouse cursor and colors!
 ### 3. [NXHKTerminalSnakeGame](https://github.com/Nixhekoo/NXHKTerminalSnakeGame_V1_CPP)
 > NXHKTerminalSnakeGame is my Very First Game Ever made using C++. I am very proud of it!
