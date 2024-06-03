@@ -1,6 +1,6 @@
 ![Image](https://raw.githubusercontent.com/Nixhekoo/Nixhekoo/main/Banner/Banner%202.png)
 <h1 align=center> Nixhekoo Games </h1>
-<p>Hey, My name is Nixhekoo and i am a 18 Year Old Developer from Slovakia. I love making Systems and Games. I've just started learning C++ recently, and already made few [Programs](https://github.com/Nixhekoo#c). I have Year of experience in Batch but i've mostly been developing text game called "Gem Miner". If you are interested, you can download them here:</p>
+<p>Hey, My name is Nixhekoo and i am a 18 Year Old Developer from Slovakia. I love making Systems and Games. I've just started learning C++ recently, and already made few <a href="https://github.com/Nixhekoo#c">Programs</a>. I have Year of experience in Batch but i've mostly been developing text game called "Gem Miner". If you are interested, you can download them here:</p>
 <div align=center>
 <a href="https://github.com/Fisterkoo">Gem Miner 1</a> • <a href="https://github.com/fakefizty">Gem Miner 2</a>
 </div>
