@@ -13,7 +13,7 @@
 > NXHKTerminalSnakeGame is my Very First Game Ever made using C++. I am very proud of it!
 
 ## My C++ Systems
-### 1. [NXHKSystem](https://github.com/Nixhekoo/NXHKSystem)
-> NXHKSystem is a Header for C++, that will help you with your C++ project whether its with Basic Encryption and Decryption, converting from String to any Data Type or any Data Type to String, or just Saving your project!
-### 2. [NXHKTerminalPlugin](https://github.com/Nixhekoo/NXHKTerminalPlugin)
+### 1. [NXHKTerminalPlugin](https://github.com/Nixhekoo/NXHKTerminalPlugin)
 > NXHKTerminalPlugin is a Plugin for Windows Terminal! This project allows you to hide Taskbar and Desktop Icons with just one Command! You can also use this to download videos from internet and even convert them to audio!
+### 2. [NXHKSystem](https://github.com/Nixhekoo/NXHKSystem)
+> NXHKSystem is a Header for C++, that will help you with your C++ project whether its with Basic Encryption and Decryption, converting from String to any Data Type or any Data Type to String, or just Saving your project!
