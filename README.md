@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/Nixhekoo/Nixhekoo/main/Banner/Banner%202.png)
+![Banner](https://raw.githubusercontent.com/Nixhekoo/Nixhekoo/main/Banner/Banner%203.png)
 - Hey, My name is Nixhekoo and i am a 18 Year Old Developer from Slovakia. I love making Systems and Games. I've just started learning C++ recently, and already made few [Programs](https://github.com/Nixhekoo#c). I have Year of experience in Batch but i've mostly been developing text game called "Gem Miner". If you are interested, you can download them here: [Gem Miner 1](https://github.com/Fisterkoo) • [Gem Miner 2](https://github.com/fakefizty)
 
 # Scratch
